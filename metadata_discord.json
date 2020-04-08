@@ -1,1 +1,18 @@
-
+{
+  "tricks": [
+    {
+   "names": ["thumbaround", "ta"],
+    "video": ["https://youtu.be/umUKMWuwiSM","https://youtu.be/vEvPPVCH6cg]"],
+    "gif": "",
+    "description": "Fundamentals!",
+     "trivia": ""
+    },
+    {
+      "names": ["sonic"],
+       "video": ["https://youtu.be/ueeZ3W7DIQo", "https://youtu.be/We64sZNSBLI"],
+       "gif": "",
+       "description": "Fundamentals!",
+        "trivia": ""
+    }
+  ]
+}
