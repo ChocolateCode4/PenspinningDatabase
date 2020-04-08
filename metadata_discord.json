@@ -2,17 +2,17 @@
   "tricks": [
     {
    "names": ["thumbaround", "ta"],
-    "video": ["https://youtu.be/umUKMWuwiSM","https://youtu.be/vEvPPVCH6cg]"],
+    "video": ["https://youtu.be/umUKMWuwiSM","https://youtu.be/vEvPPVCH6cg"],
     "gif": "",
-    "description": "Fundamentals!",
-     "trivia": ""
+    "description": "One of the most important tricks, very efficient lorem ipsum",
+     "trivia": "sample trivia text"
     },
     {
       "names": ["sonic"],
        "video": ["https://youtu.be/ueeZ3W7DIQo", "https://youtu.be/We64sZNSBLI"],
        "gif": "",
-       "description": "Fundamentals!",
-        "trivia": ""
+       "description": "Fundamentals, lorem ipsum lorem ipsum",
+        "trivia": "more sample trivia text"
     }
   ]
 }
