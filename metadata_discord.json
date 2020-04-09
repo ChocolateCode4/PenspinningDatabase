@@ -13,6 +13,54 @@
        "gif": "",
        "description": "Fundamentals, lorem ipsum lorem ipsum",
         "trivia": "more sample trivia text"
-    }
+    }, {
+       "names": ["charge"],
+       "video": ["TBA"],
+       "gif": "",
+       "description": "Fundamentals, lorem ipsum lorem ipsum",
+       "trivia": "more sample trivia text"
+     }, {
+        "names": ["twisted sonic", "tws"],
+        "video": ["TBA"],
+        "gif": "",
+        "description": "Fundamentals, lorem ipsum lorem ipsum",
+        "trivia": "more sample trivia text"
+      }, {
+         "names": ["bakaround","backaround", "bak"],
+         "video": ["TBA"],
+         "gif": "",
+         "description": "Fundamentals, lorem ipsum lorem ipsum",
+         "trivia": "more sample trivia text"
+       }, {
+          "names": ["pass"],
+          "video": ["TBA"],
+          "gif": "",
+          "description": "Fundamentals, lorem ipsum lorem ipsum",
+          "trivia": "more sample trivia text"
+        }, {
+           "names": ["powerpass"],
+           "video": ["TBA"],
+           "gif": "",
+           "description": "",
+           "trivia": "more sample trivia text"
+        }, {
+          "names": ["pass rev"],
+          "video": ["TBA"],
+          "gif": "",
+          "description": "Fundamentals, lorem ipsum lorem ipsum",
+         "trivia": "more sample trivia text"
+        },  {
+         "names": ["neosonic"],
+          "video": ["TBA"],
+            "gif": "",
+          "description": "Fundamentals, lorem ipsum lorem ipsum",
+          "trivia": "more sample trivia text"
+       }, {
+          "names": ["neobak", "neoback"],
+          "video": ["TBA"],
+          "gif": "",
+          "description": "Fundamentals, lorem ipsum lorem ipsum",
+          "trivia": "more sample trivia text"
+        }
   ]
 }
